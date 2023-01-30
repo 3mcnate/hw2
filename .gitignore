@@ -1,3 +1,7 @@
 *.o
 amazon
 hw2_tests/
+test.cpp
+test
+.vscode
+test.dSYM/
