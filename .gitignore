@@ -5,3 +5,5 @@ test
 .vscode
 test.dSYM/
 hw2_tests.tar.gz
+hw2_tests/
+.DS_Store
