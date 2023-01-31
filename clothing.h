@@ -12,7 +12,7 @@ class Clothing : public Product
                  std::string size_,
                  std::string brand_);
 
-        ~Clothing();
+        ~Clothing() { }
 
         std::set<std::string> keywords() const;
         std::string displayString() const;

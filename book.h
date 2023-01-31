@@ -11,7 +11,8 @@ class Book : public Product
              int qty, 
              const std::string ISBN, 
              const std::string author);
-        
+        ~Book() { }
+
         std::set<std::string> keywords() const;
         std::string displayString() const;
         void dump(std::ostream& os) const;

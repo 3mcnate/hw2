@@ -12,8 +12,6 @@ class Movie : public Product
               std::string genre,
               std::string rating);
 
-        ~Movie();
-
         std::set<std::string> keywords() const;
         std::string displayString() const;
         void dump(std::ostream& os) const;
