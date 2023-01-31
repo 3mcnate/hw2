@@ -1,14 +1,14 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/kwsys.dir/Directory.cxx.o"
-  "CMakeFiles/kwsys.dir/EncodingC.c.o"
-  "CMakeFiles/kwsys.dir/EncodingCXX.cxx.o"
-  "CMakeFiles/kwsys.dir/FStream.cxx.o"
   "CMakeFiles/kwsys.dir/ProcessUNIX.c.o"
-  "CMakeFiles/kwsys.dir/RegularExpression.cxx.o"
+  "CMakeFiles/kwsys.dir/EncodingC.c.o"
   "CMakeFiles/kwsys.dir/System.c.o"
+  "CMakeFiles/kwsys.dir/Directory.cxx.o"
+  "CMakeFiles/kwsys.dir/EncodingCXX.cxx.o"
+  "CMakeFiles/kwsys.dir/RegularExpression.cxx.o"
   "CMakeFiles/kwsys.dir/SystemTools.cxx.o"
-  "libkwsys.a"
+  "CMakeFiles/kwsys.dir/FStream.cxx.o"
   "libkwsys.pdb"
+  "libkwsys.a"
 )
 
 # Per-language clean rules from dependency scanning.

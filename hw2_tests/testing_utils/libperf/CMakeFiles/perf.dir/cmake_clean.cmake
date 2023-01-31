@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/perf.dir/libperf.c.o"
-  "libperf.a"
   "libperf.pdb"
+  "libperf.a"
 )
 
 # Per-language clean rules from dependency scanning.
